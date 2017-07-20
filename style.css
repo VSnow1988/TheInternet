@@ -129,6 +129,7 @@ h6 {
 	
 	font-size: 20px;
 	margin: 5px auto;
+	color: white;
 }
 
 h3 {
@@ -214,3 +215,5 @@ h4 {
 	color: cyan;
 	font-weight: bold;
 }
+
+.phoneinfo { text-decoration: none; }
